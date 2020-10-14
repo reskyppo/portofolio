@@ -3,7 +3,7 @@ import CardContent from "../components/CardContent";
 const Card = () => {
   return (
     <div className="container p-6 mb-4 xl:my-12 ">
-      <h1 className="pt-8 leading-normal text-base md:text-4xl mb-8 text-center">
+      <h1 className="pt-8 leading-normal text-3xl md:text-4xl text-dodger-blue-700 font-semibold mb-8 text-center">
         My Magic Spell.
       </h1>
       <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 ">

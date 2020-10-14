@@ -1,14 +1,14 @@
 const CardContent = ({ src, title, detail }) => {
   return (
-    <div class="p-4 md:w-1/2 md:mb-0 mb-6 flex flex-col text-center items-center">
-      <div class="w-20 h-20 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
+    <div className="p-4 mx-auto md:w-1/2 md:mb-0 mb-6 flex flex-col text-center items-center ">
+      <div className="w-20 h-20 inline-flex items-center justify-center   mb-5 flex-shrink-0">
         <img src={src} alt={title} />
       </div>
-      <div class="flex-grow">
-        <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
+      <div className="flex-grow">
+        <h2 className="text-dodger-blue-600 text-lg title-font font-semibold mb-3">
           {title}
         </h2>
-        <p class="leading-relaxed text-base">{detail}</p>
+        <p className="leading-relaxed text-base font-medium">{detail}</p>
       </div>
     </div>
   );
