@@ -5,7 +5,7 @@ const CardContent = ({ src, title, detail }) => {
         <img src={src} alt={title} />
       </div>
       <div className="flex-grow">
-        <h2 className="text-dodger-blue-600 text-lg title-font font-semibold mb-3">
+        <h2 className="text-dodger-blue-600 text-2xl title-font font-bold mb-3">
           {title}
         </h2>
         <p className="leading-relaxed text-base font-medium">{detail}</p>

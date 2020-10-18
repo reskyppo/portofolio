@@ -2,7 +2,7 @@ import Link from "next/link";
 import Contact from "./Contact";
 const Footer = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto mt-32">
       <h1 className="leading-normal text-2xl md:text-3xl text-dodger-blue-700 font-semibold mb-4 text-center">
         Have an exciting project <br /> where you need some help?
       </h1>
