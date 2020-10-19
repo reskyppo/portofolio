@@ -35,7 +35,7 @@ const Footer = () => {
         />
       </div>
 
-      <div className="text-gray-700 font-medium text-center">
+      <div className="text-gray-700 text-xs font-medium text-center">
         <p>
           Special thanks to
           <Link href="https://www.drawkit.io/">
