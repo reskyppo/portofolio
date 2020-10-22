@@ -11,7 +11,6 @@ const Main = () => {
           className="h-screen pb-14 bg-right bg-cover"
           style={{ backgroundImage: "url(" + "/bg.svg" + ")" }}
         >
-          <Navbar />
           <Hero />
 
           <Card />
