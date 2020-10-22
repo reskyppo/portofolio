@@ -4,14 +4,13 @@ import Main from "../components/Main";
 
 export default function Home() {
   return (
-    <div className="container mx-auto xl:mx-auto">
+    <div className=" md:flex bg-white rounded-lg p-24 justify-center">
       <Head>
         <title>Reskyppo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Main />
-      
     </div>
   );
 }

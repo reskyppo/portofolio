@@ -6,12 +6,12 @@ const Navbar = () => {
       <div className="w-full flex items-center ">
         <Link href="#">
           <a className="inline-block font-semibold text-lg hover:cursor-pointer text-blue-500  hover:text-indigo-800 text-center h-10 p-2 md:h-auto md:p-4 ">
-            Work
+            Work awdwbldouaocbaowi oiahwf oia
           </a>
         </Link>
-        <Link href="#">
+        <Link href="http://fb.com/koalakumal">
           <a className="inline-block font-semibold text-lg hover:cursor-pointer text-blue-500  hover:text-indigo-800 text-center h-10 p-2 md:h-auto md:p-4 ">
-            About
+            Aboutanwaon
           </a>
         </Link>
         <Link href="#">
