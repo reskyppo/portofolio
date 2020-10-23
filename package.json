@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "next": "9.5.3",
+    "nprogress": "^0.2.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-toastify": "^6.0.9"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
