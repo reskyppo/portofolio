@@ -4,7 +4,7 @@ const CardProjects = ({ title, type, desc, tech, link, github, img }) => {
   return (
     <div>
       <section className="text-gray-700 body-font overflow-hidden">
-        <div className="container px-5 py-12 md:py-24  mx-auto">
+        <div className=" px-5 py-12 md:py-24  mx-auto">
           <div className="lg:w-4/5 mx-auto flex flex-wrap">
             <img
               alt={type}
