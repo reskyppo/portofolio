@@ -5,7 +5,7 @@ const CardProjects = ({ title, type, desc, tech, link, github, img }) => {
     <div>
       <section className="text-gray-700 body-font overflow-hidden">
         <div className=" px-5 py-12 md:py-24  mx-auto">
-          <div className="lg:w-4/5 mx-auto flex flex-wrap">
+          <div className="lg:w-4/5 mx-auto flex flex-wrap ">
             <img
               alt={type}
               className="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded shadow-lg"

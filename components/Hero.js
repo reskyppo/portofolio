@@ -1,5 +1,5 @@
 import Link from "next/link";
-
+import Image from 'next/image'
 const Hero = () => {
   return (
     <div className="pt-24 md:pt-8 px-6 mx-auto flex flex-wrap flex-col md:flex-row items-center">
