@@ -10,6 +10,7 @@
   "dependencies": {
     "next": "^10.0.1",
     "nprogress": "^0.2.0",
+    "postcss": "^8.1.14",
     "postcss-flexbugs-fixes": "^5.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
@@ -17,8 +18,7 @@
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
-    "autoprefixer": "^10.0.1",
-    "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^1.8.13"
+    "autoprefixer": "^10.0.4",
+    "tailwindcss": "^2.0.1"
   }
 }

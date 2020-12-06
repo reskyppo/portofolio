@@ -1,4 +1,4 @@
-import "../styles/tailwind.css";
+import "../styles/index.css";
 import Router from "next/router";
 import { ToastContainer } from "react-toastify";
 import NProgress from "nprogress";
