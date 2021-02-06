@@ -7,16 +7,11 @@ const Main = () => {
   return (
     <main>
       <div className="leading-normal tracking-normal">
-        <div
-          className="h-screen pb-14 bg-right bg-cover"
-          style={{ backgroundImage: "url(" + "/bg.svg" + ")" }}
-        >
-          {/* <Navbar /> */}
-          <Hero />
+        {/* <Navbar /> */}
+        <Hero />
 
-          <Card />
-          <Footer />
-        </div>
+        <Card />
+        <Footer />
       </div>
     </main>
   );
