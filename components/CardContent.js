@@ -8,7 +8,7 @@ const CardContent = ({ src, title, detail }) => {
         <h2 className="text-dodger-blue-600 text-2xl title-font font-bold mb-3">
           {title}
         </h2>
-        <p className="leading-relaxed text-base font-medium">{detail}</p>
+        <p className="leading-relaxed text-white font-medium">{detail}</p>
       </div>
     </div>
   );
