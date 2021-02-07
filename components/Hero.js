@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 const Hero = () => {
   return (
-    <div className="min-h-screen pt-24 md:pt-8 md:px-6 mx-auto flex flex-wrap flex-col md:flex-row items-center">
+    <div className="min-h-screen mx-auto flex flex-wrap flex-col md:flex-row items-center">
       {/* <!--Left Col--> */}
       <div className="flex flex-col pb-4 w-full xl:w-2/5 justify-center lg:items-start overflow-y-hidden">
         <h1 className="my-4 text-3xl md:text-5xl  font-bold leading-tight text-center md:text-left slide-in-bottom-h1">
@@ -26,7 +26,10 @@ const Hero = () => {
               width="100%"
               height="100%"
             />
-            <a className="text-xl md:text-2xl" href="https://github.com/reskyppo/">
+            <a
+              className="text-xl md:text-2xl"
+              href="https://github.com/reskyppo/"
+            >
               Github
             </a>
           </button>

@@ -9,9 +9,9 @@ const Main = () => {
       <div className="leading-normal tracking-normal">
         {/* <Navbar /> */}
         <Hero />
-
+        {/* 
         <Card />
-        <Footer />
+        <Footer /> */}
       </div>
     </main>
   );
