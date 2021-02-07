@@ -7,7 +7,7 @@ export default function Home() {
     <div className="px-5 md:px-20 ">
       <Head>
         <title>Reskyppo</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.png" />
       </Head>
 
       <Main />
