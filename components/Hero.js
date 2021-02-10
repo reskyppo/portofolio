@@ -36,7 +36,7 @@ const Hero = () => {
 
         {/* <!--Right Col--> */}
         <div className="w-full lg:w-3/5 py-6 overflow-y-hidden">
-          <img className="mx-auto lg:mr-0 " src="/Hero.webp" alt="hero" />
+          <img className="mx-auto lg:mr-0 " src="/hero.webp" alt="hero" />
         </div>
       </div>
     </>
