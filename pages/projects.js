@@ -21,6 +21,17 @@ const projects = () => {
             </p>
           </a>
         </Link>
+
+        <CardProjects
+          type="website"
+          title="True or False Quiz"
+          desc="This project is the project I used to learn to implement redux, you can see it in the features folder. This project uses the concept of mobile first."
+          tech="ReactJs, Hooks, and Redux"
+          link="http://true-false-quiz.vercel.app/"
+          github="https://github.com/reskyppo/true-false-quiz"
+          img="/images/Quiz.webp"
+        />
+
         <CardProjects
           type="website"
           title="Covid-19 Tracker"
