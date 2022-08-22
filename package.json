@@ -8,17 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001380",
     "next": "^10.0.1",
     "nprogress": "^0.2.0",
     "postcss": "^8.1.14",
     "postcss-flexbugs-fixes": "^5.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-toastify": "^6.0.9"
+    "react-tooltip": "^4.2.21"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
-    "@types/node": "^18.7.6",
+    "@types/node": "^18.7.8",
     "@types/react": "^18.0.17",
     "autoprefixer": "^10.0.4",
     "tailwindcss": "^2.0.1",
