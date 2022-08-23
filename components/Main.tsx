@@ -6,7 +6,10 @@ const Header = () => {
       <div className="rounded-full h-48 w-48 bg-white border border-gray-400">
         <img src="/me.png" className="rounded-full w-full h-full" />
       </div>
-      <h1 className="text-3xl font-semibold mt-4">Resky Budi Nugroho</h1>
+      <h1 className="text-3xl font-semibold mt-4 mb-2">Resky Budi Nugroho</h1>
+      <h5 className="text-gray-600 text-lg">
+        Frontend Engineer at Privy Identitas Digital
+      </h5>
       <div className="flex justify-center items-center mt-4 py-2 px-4">
         <SocialMedia
           url="mailto:reskybeen@gmail.com"
